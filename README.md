@@ -25,7 +25,7 @@ The analysis of the outcomes based on Launch date tells us that the most success
 Alteratively the greatest number of failed campaigns occurred in October.  Again this can be seen in the chart above. We see a significant spike with 50 failed kickstarters the most over the course of the year and only 65 successful campaigns, far from the 111 in May.  This would be the worst time of the year to launch a kickstarter. 
 
 ### Outcomes Based on Goal
-
+The analysis of the outcome based on the size of the goal tells us that the most successful campaigns had a goal between $35,000 and $44,999 with 67% of campaigns successful in this range.
 
 
 
