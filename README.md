@@ -22,7 +22,7 @@ Utlimately the purpose of this analyisis is to understand how the variables laun
 ### Outcomes Based on Launch Date
 The analysis of the outcomes based on Launch date tells us that the most successful time of year to start a Theater Kickstarter campaign is in the month of May. This  can be visualized above in the chart.  We can see starting in March the number of successful campaigns was 56 but steadily increased exclerating in April and reaching its maximum of 111 successful campaigns in the Month of May. Looking at successful campaigns over the course of the year the best time for Louise to Launch her campaign would be May. 
 
-Alteratively the greatest number of failed campaigns occurred in October.  Again this can be seen in the chart above. We see a significant spike with 50 failed kickstarters, the most over the course of the year, and only 65 successful campaigns, far from the 111 in May.  This would be the worst time of the year to launch a kickstarter. 
+Alteratively the greatest number of failed campaigns occurred in October.  Again this can be seen in the chart above. October sees a significant spike with 50 failed kickstarters, the most over the course of the year, and only 65 successful campaigns, far from the 111 in May.  This would be the worst time of the year to launch a kickstarter. 
 
 ### Outcomes Based on Goal
 The analysis of the outcome based on the size of the goal tells us that the most successful campaigns had a goal between $35,000 and $44,999 with 67% of campaigns successful in this range.
