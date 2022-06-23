@@ -18,13 +18,13 @@ To Start this analysis I created a pivot table looking at outcomes for all the k
 
 ### Theater Outcomes Based on Launch Date
 
-In Addtion to anaylizing outcome based on launch date I examined the impact of a goals on the outcome of kickster campaigns for plays. Fot this I split the outcome data for plays into 3 catergories again; successful, failed, and canceled.  I then created a goal range(i.e., 1000-4999,5000-9999, etc) and used excel to count how many successful, failed and canceled kickstarters fell within each range. Frome here its easy to create another line chart to very clearly see the goal range of the most successful campaigns is.
+In addtion to anaylizing outcome based on launch date I examined the impact of a goals on the outcome of kickster campaigns for plays. For this I split the outcome data for plays into 3 catergories again; successful, failed, and canceled.  I then created a goal range(i.e., 1000-4999,5000-9999, etc) and used excel to count how many successful, failed and canceled kickstarters fell within each range. Frome here its easy to create another line chart to very clearly see the goal range of the most successful campaigns is.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/107006216/174694864-618e25cc-197d-483a-82a2-8162a8785b3a.png)
 
 ### Challenges and Difficulties Encountered
 
-Some possible challenges that could be ecn
+One possible challenge in doing an anlysis like this is knowing whether your analysis is looking at enough data points to draw meainingful conclusions.  Its hard to say how much weight should be put on any single variables(launch date, end date, goal, country, category, etc.) and its impact on outcome, correlation vs causation. Creating addtional tables and charts is one way to overcome this, making the analysis more complex which might change our conlcusion but would ultimately strengthen its findings. Also knowing whether the raw data set your looking at is good data is another challenge. This can be overcome wiith some statistical anaylysis; calculate the mean, medium, quartiles, standard deviation and uncover outliers. 
 
 ## Results
 ### Outcomes Based on Launch Date
